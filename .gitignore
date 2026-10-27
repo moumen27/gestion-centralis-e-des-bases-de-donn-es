@@ -1,0 +1,17 @@
+# Dossiers externes / non liés
+Application/
+introduction-to-react/
+
+# Dépendances
+node_modules/
+
+# Sauvegardes locales automatiques
+backups/*.sql
+!backups/.gitkeep
+
+# Fichiers temporaires et de logs
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
